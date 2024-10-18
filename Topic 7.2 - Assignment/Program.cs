@@ -23,7 +23,7 @@ namespace Topic_7._2___Assignment
             Console.WriteLine();
             Console.WriteLine("\t X \t Y");
             Console.WriteLine("\t------------");
-            for (double i = -10; i >= 10; i += 2)
+            for (double i = -10; i <= 10; i += 2)
             {
                 double xVar = i, yVar = Math.Pow(i, 2);
                 Console.WriteLine("\t" + xVar + "|\t" + yVar);

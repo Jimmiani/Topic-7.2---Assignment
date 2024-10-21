@@ -37,7 +37,7 @@ namespace Topic_7._2___Assignment
                     done = true;
                 }
                 Console.WriteLine();
-                Console.WriteLine("Hope you enjoyed your stay!");
+                Console.WriteLine("Hope you enjoyed your time!");
                 Console.WriteLine("Goodbye Buckaroo!");
             }
         }
